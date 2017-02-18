@@ -1,7 +1,6 @@
-timezone:    Europe/Berlin
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
-baseurl:     ""
+baseurl:     "/deakin-hdr"
 # The allowed values are 'rouge', 'pygments' or null.
 highlighter: rouge
 # markdown - Valid options are [ maruku | rdiscount | kramdown | redcarpet ]
@@ -18,7 +17,7 @@ kramdown:
 
 ## personalize your slide show
 title:       reveal-jekyll
-author:      Thomas Friese
+author:      Tim Sherratt
 description: Reveal.js for Jekyll with Solarized Color theme
 
 sass:
@@ -44,7 +43,7 @@ reveal:
   ## Display controls in the bottom right corner
   controls: true
   ## Display a presentation progress bar
-  progress: true
+  progress: false
   ## Display the page number of the current slide
   #slideNumber: false
   ## Push each slide change to the browser history
@@ -93,8 +92,8 @@ reveal:
   ## The "normal" size of the presentation, aspect ratio will be preserved
   ## when the presentation is scaled to fit different resolutions. Can be
   ## specified using percentage units.
-  width: 1000
-  height: 920
+  width: 1200
+  height: 960
   ## Factor of the display size that should remain empty around the content
   margin: 0.1
   ## Bounds for smallest/largest possible scale to apply to content
