@@ -4,3 +4,31 @@
 ---
 
 @import "solarized/solarized.scss";
+
+p.note {
+    text-align: center;
+    margin-top: 50px;
+}
+.reveal h6 {
+    line-height: 120%;
+}
+
+p.centered {
+    text-align: center;
+}
+
+.reveal section img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rotate-right {
+    -ms-transform: rotate(4deg); /* IE 9 */
+    -webkit-transform: rotate(4deg); /* Chrome, Safari, Opera */
+    transform: rotate(4deg);
+}
+.rotate-left {
+    -ms-transform: rotate(-4deg); /* IE 9 */
+    -webkit-transform: rotate(-4deg); /* Chrome, Safari, Opera */
+    transform: rotate(-4deg);
+}

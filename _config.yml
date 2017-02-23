@@ -16,9 +16,9 @@ kramdown:
 #  - jemoji
 
 ## personalize your slide show
-title:       reveal-jekyll
+title:       The practice of play
 author:      Tim Sherratt
-description: Reveal.js for Jekyll with Solarized Color theme
+description: Keynote presentation for Deakin Arts HDR Summer School
 
 sass:
   style:     :compressed
@@ -41,7 +41,7 @@ slideNumber:
 ## Note that the new default vertical centering option will break compatibility with slides that were using transitions with backgrounds ("cube" and "page"). To restore the previous behavior, set "center" to "false".
 reveal:
   ## Display controls in the bottom right corner
-  controls: true
+  controls: false
   ## Display a presentation progress bar
   progress: false
   ## Display the page number of the current slide
@@ -84,7 +84,7 @@ reveal:
   ## Transition style for full page slide backgrounds (default/none/slide/concave/convex/zoom)
   backgroundTransition: slide
   ## Number of slides away from the current that are visible
-  #viewDistance: 3
+  viewDistance: 3
   ## Parallax background image (e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'")
   #parallaxBackgroundImage: ''
   ## Parallax background size (CSS syntax, e.g. "2100px 900px")
