@@ -17,8 +17,8 @@ kramdown:
 #  - jemoji
 
 ## personalize your slide show
-title:       reveal-jekyll
-author:      Thomas Friese
+title:       UOW
+author:      Tim Sherratt
 description: Reveal.js for Jekyll with Solarized Color theme
 
 sass:
