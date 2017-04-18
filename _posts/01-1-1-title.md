@@ -1,8 +1,9 @@
 ---
 layout: slide
-title: "The practice of play"
+title: "The problem of access"
 ---
 
+##### or when good search engines go bad...
 
 {: .centered }
 ![Redactions screenshot]({{ site.baseurl}}/assets/images/redactions.jpg)
